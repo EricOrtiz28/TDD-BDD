@@ -72,4 +72,4 @@ class Account(db.Model):
         :rtype: Account
         """
         logger.info("Buscando cuenta con id %s ...", account_id)
-        return cls.query.get(account_id)
+        return db.session.get(cls, account_id)

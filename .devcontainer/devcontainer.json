@@ -1,5 +1,5 @@
 {
-    "name": "Kapumota",
+    "name": "eric",
     "dockerFile": "Dockerfile",
     "context": "..",
     "remoteUser": "EricOrtiz28",
