@@ -14,3 +14,6 @@ coverage==6.3.2
 factory-boy==3.2.1     # Versión actualizada
 pylint==2.14.0
 
+# Dependencias AAA y BDD con behave
+
+behave==1.2.6
