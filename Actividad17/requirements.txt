@@ -1,0 +1,10 @@
+pytest
+pytest-cov
+pytest-asyncio
+pytest-benchmark
+requests
+requests-mock
+pytest-mock
+hypothesis
+bandit
+sentry-sdk
